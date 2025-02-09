@@ -136,7 +136,7 @@ void console_readline(char *buffer, size_t size);
 ```
 
 ## License
-This library is licensed under the MIT License. See `LICENSE` for details.
+This library is licensed under the BSD 3-Clause License. See `LICENSE` for details.
 
 ## Contribution
 Contributions are welcome! Please submit issues and pull requests via GitHub.
